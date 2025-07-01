@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15774921.svg)](https://zenodo.org/doi/10.5281/zenodo.15774921)
+
 # Static embeddings (type vectors) for Ancient Greek
 
 Static embeddings (type vectors) for Ancient Greek, created as follows:
