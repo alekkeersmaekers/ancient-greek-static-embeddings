@@ -10,7 +10,7 @@ with Lessons Learned from Word Embeddings](https://doi.org/10.1162/tacl_a_00134)
 
 These embeddings will be updated whenever I make progress at the computational modeling of Ancient Greek semantics or the GLAUx corpus grows.
 
-Currently two files are provided, offering embeddings for nouns only and all words. In my experience, the embeddings seem to work a little better when they are restricted to a specific word class.
+Currently four files are provided, offering embeddings for nouns, verbs and adjectives only, and all words. In my experience, the embeddings seem to work a little better when they are restricted to a specific word class.
 
 The code to generate such embeddings will be released in the [GLAUx NLP](https://github.com/alekkeersmaekers/glaux-nlp) repository in the near future.
 
